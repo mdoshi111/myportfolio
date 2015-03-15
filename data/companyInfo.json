@@ -1,0 +1,37 @@
+[
+    {
+        "companyname": "comcast",
+        "imgpath": "img/portfolio/Constant Guard from Xfinity.png",
+        "imgalttag": "Constant Guard"
+    },
+    {
+        "companyname": "bookspan",
+        "imgpath": "img/portfolio/Doubleday Book Club.png",
+        "imgalttag": "Double Day Book Club"
+    },
+    {
+        "companyname": "kpmg",
+        "imgpath": "img/portfolio/kpmg.png",
+        "imgalttag": "Kpmg"
+    },
+    {
+        "companyname": "homeownerschoiceinsurance",
+        "imgpath": "img/portfolio/homeowners_choice_insurance.png",
+        "imgalttag": "Home Owners Choice Insurance"
+    },
+    {
+        "companyname": "bestbuy",
+        "imgpath": "img/portfolio/bestbuy.png",
+        "imgalttag": "Bestbuy"
+    },
+    {
+        "companyname": "whirlpool",
+        "imgpath": "img/portfolio/whirlpool.png",
+        "imgalttag": "Whirlpool"
+    },
+    {
+        "companyname": "homedecorators",
+        "imgpath": "img/portfolio/homedecorators.png",
+        "imgalttag": "Home Decorators"
+    }
+]

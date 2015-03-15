@@ -442,3 +442,5 @@ footer .footer-below {
     display: none;
     opacity: 0;
 }
+
+#about p{text-align: justify;}

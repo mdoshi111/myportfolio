@@ -1,0 +1,82 @@
+[
+    {
+        "companyname": "comcast",
+        "projectname":"Constant Guard",
+        "projectinformation":"Constant Guard is a suite provided by Comcast Xfinity to its customer for no additional cost. It provides protection against malware on internet.",
+        "projectdate":"April 2014",
+        "position":"Sr. Web Developer",
+        "client":"Comcast",
+        "imgpath": "img/portfolio/Constant Guard from Xfinity.png",
+        "imgalttag": "Constant Guard"
+    },
+    {
+        "companyname": "bookspan",
+        "projectname":"Double Day Book Club",
+        "projectinformation":"Bookspan operate 19 book clubs spanning a wide variety of fiction and non-fiction genres. Many of bookspan's club have been in operation for more than 50 years. Unlike other online bookstores, their clubs carry a limited selection of only the best books in each category. We evaluate hundreds of new books each month, but select only 5-10 new books to make available in each club each month. Our goal is to help our members discover their next great read.",
+        "projectdate":"Jan 2011",
+        "position":"Sr. Web Developer",
+        "client":"Bookspan",
+        "imgpath": "img/portfolio/Doubleday Book Club.png",
+        "imgalttag": "Doubleday Book Club"
+    },
+    {
+        "companyname": "healthnow",
+        "projectname":"Health Now Insurance",
+        "projectinformation":"HealthNow New York Inc. is the leading healthcare company in Western New York. HealthNow is pioneer in providing quality healthcare services to companies and individuals in the region.",
+        "projectdate":"2010",
+        "position":"UI Developer",
+        "client":"Health Now Insurance",
+        "imgpath": "img/portfolio/Health Now.png",
+        "imgalttag": "Health Now"
+    },
+    {
+        "companyname": "kpmg",
+        "projectname":"KPMG",
+        "projectinformation":"KPMG is one of the largest professional services companies in the world and one of the Big Four auditors. They provide Audit, Advisory and Tax services.",
+        "projectdate":"2010",
+        "position":"Web Developer",
+        "client":"KPMG",
+        "imgpath": "img/portfolio/kpmg.png",
+        "imgalttag": "KPMG"
+    },
+    {
+        "companyname": "homeownerschoiceinsurance",
+        "projectname":"Homeowners Choice Insurance",
+        "projectinformation":"Homeowners Choice Property & Casualty Insurance Company, Inc. is a Florida-based homeowners’ insurance company, headquartered in Tampa, Florida, that provides property and casualty insurance solely to Florida property owners.",
+        "projectdate":"",
+        "position":"Front End UI Developer",
+        "client":"Homeowners Choice Insurance",
+        "imgpath": "img/portfolio/homeowners_choice_insurance.png",
+        "imgalttag": "Homeowners Choice Insurance"
+    },
+    {
+        "companyname": "bestbuy",
+        "projectname":"Best Buy",
+        "projectinformation":"Best Buy Co., Inc. is an American multinational consumer electronics corporation headquartered in Richfield, Minnesota. They are in an ecommerce business selling millions of item each year.",
+        "projectdate":"",
+        "position":"Web Developer",
+        "client":"Best Buy",
+        "imgpath": "img/portfolio/bestbuy.png",
+        "imgalttag": "Best Buy"
+    },
+    {
+        "companyname": "whirlpool",
+        "projectname":"Whirlpool",
+        "projectinformation":"Whirlpool is a manufaturer and innovater of home appliances. They have advanced technology to the point of Simplicity.",
+        "projectdate":"",
+        "position":"Web Developer",
+        "client":"Whirlpool",
+        "imgpath": "img/portfolio/whirlpool.png",
+        "imgalttag": "Whirlpool"
+    },
+    {
+        "companyname": "homedecorators",
+        "projectname":"Home Decorators",
+        "projectinformation":"Home Decorators Collection is one of the nation's largest direct sellers of home decor. They offer exceptional values on an extensive selection of high-quality furniture, area rugs and accessories.",
+        "projectdate":"",
+        "position":"UI Developer",
+        "client":"Home Decorators",
+        "imgpath": "img/portfolio/homedecorators.png",
+        "imgalttag": "Home Decorators"
+    }
+]
